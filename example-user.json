@@ -1,0 +1,32 @@
+{
+    "id": "ckwq84qd3000208mkaiu5gn15",
+    "name": "Nathan Moseley",
+    "email": "ncmoseley@gmail.com",
+    "emailVerified": null,
+    "birthdate": 1988,
+    "gender": null,
+    "image": "https://s.gravatar.com/avatar/cabcecbe5a176f31eea9d57963de234d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fnc.png",
+    "role": "admin",
+    "size": {
+        "top": "M / 8",
+        "shoes": "29-32 / M",
+        "bottom": "31-32 / M"
+    },
+    "buckets": [
+        "casual",
+        "bohemian"
+    ],
+    "location": {
+        "lat": 49.8879519,
+        "lng": -119.4960106,
+        "address": "Kelowna, BC, Canada"
+    },
+    "favourite": {
+        "brands": [
+            "Warnaco Group",
+            "Walmart"
+        ]
+    },
+    "settings": null,
+    "has_latest_app": "{\"updates\": false, \"newsletter\": false}"
+}

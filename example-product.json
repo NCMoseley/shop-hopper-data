@@ -1,0 +1,81 @@
+{
+    "business_name": "Blue Sky Clothing: Kelowna",
+    "buckets": ["Casual"],
+    "body_html": "<p><strong data-mce-fragment=\"1\">Description</strong></p>\n<p data-mce-fragment=\"1\"><meta charset=\"utf-8\"><span>Love your leggings? Convert your favourite sweater or tee into tunic length with the Whistler, our 'privacy skirt'. This piece provides those few inches of length needed to wear that great sweater over leggings and boots. A short version of our Jonelle, the Whistler fits close to the body, forming to your shape for an excellent body-con finish.</span></p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Features</strong></p>\n<p data-mce-fragment=\"1\">- Body-con fit</p>\n<p data-mce-fragment=\"1\">- All-over stretch</p>\n<p data-mce-fragment=\"1\">- Horizontal panels</p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Blue Sky fit guide</strong> -<meta charset=\"utf-8\"> go down one size for a smooth fit.</span></p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Fabric</strong><span data-mce-fragment=\"1\"> </span>-<span data-mce-fragment=\"1\"> 95% Bamboo</span><span>, 5% Lycra</span></p>\n<style><!--\n.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}     .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}\n--></style>",
+    "compare_at_price": 4900,
+    "is_available": true,
+    "is_on_sale": false,
+    "created_at": "2022-02-08T15:46:04-08:00",
+    "gender": null,
+    "handle": "whistler-skirt-yarn-dye-khaki-bamboo",
+    "id": 6717765025892,
+    "sizes": ["XL", "S"],
+    "colors": ["white", "gold", "winter fog"],
+    "images": [{
+        "position": 1,
+        "src": "https://cdn.shopify.com/s/files/1/0114/7771/2996/products/Whistler_Khaki_Cloe_F.jpg?v=1648161862"
+    }, {
+        "position": 2,
+        "src": "https://cdn.shopify.com/s/files/1/0114/7771/2996/products/Whistler_Khaki_Cloe_A.jpg?v=1648161862"
+    }],
+    "options": [{
+        "name": "Size",
+        "position": 1,
+        "values": ["XXSMALL", "XSMALL", "SMALL", "MEDIUM", "LARGE", "XLARGE", "1X", "2X", "3X", "4X"]
+    }],
+    "original_price": 4900,
+    "place_id": "ChIJYTDvZqj0fVMRQ6LOOB2W4Og",
+    "product_type": "skirt",
+    "published_at": "2022-03-24T15:44:57-07:00",
+    "sale_ratio": 0,
+    "tags": ["Bamboo", "fw2022", "Khaki", "pfs:label-new", "regular", "Skirt", "Sunny"],
+    "title": "Whistler Skirt, Yarn Dye Khaki, Bamboo",
+    "updated_at": "2022-03-24T15:44:58-07:00",
+    "url": "https://www.blueskyclothingco.com/products/whistler-skirt-yarn-dye-khaki-bamboo",
+    "variants": [{
+        "available": false,
+        "compare_at_price": "49.00",
+        "created_at": "2022-02-08T15:46:04-08:00",
+        "featured_image": {
+            "position": 2,
+            "src": "https://cdn.shopify.com/s/files/1/0114/7771/2996/products/Whistler_Khaki_Cloe_A.jpg?v=1648161862"
+        },
+        "grams": 0,
+        "id": 39789225640036,
+        "option1": "XXSMALL",
+        "option2": null,
+        "option3": null,
+        "position": 1,
+        "price": "49.00",
+        "product_id": 6717765025892,
+        "requires_shipping": true,
+        "size": "24-25 / XXS",
+        "sku": "36222380",
+        "taxable": true,
+        "title": "XXSMALL",
+        "updated_at": "2022-03-24T15:29:03-07:00"
+    }, {
+        "available": true,
+        "compare_at_price": "49.00",
+        "created_at": "2022-02-08T15:46:04-08:00",
+        "featured_image": {
+            "position": 2,
+            "src": "https://cdn.shopify.com/s/files/1/0114/7771/2996/products/Whistler_Khaki_Cloe_A.jpg?v=1648161862"
+        },
+        "grams": 0,
+        "id": 39789225672804,
+        "option1": "XSMALL",
+        "option2": null,
+        "option3": null,
+        "position": 2,
+        "price": "49.00",
+        "product_id": 6717765025892,
+        "requires_shipping": true,
+        "size": "27-28 / S",
+        "sku": "36222381",
+        "taxable": true,
+        "title": "XSMALL",
+        "updated_at": "2022-03-24T15:29:03-07:00"
+    }],
+    "vendor": "sunny fw2022"
+}
