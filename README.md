@@ -9,7 +9,11 @@ This repo is intended to be used for sharing schemas and data examples, and stre
 ## Product
 
 [Product Schema](https://docs.google.com/spreadsheets/d/16mj8SUL8I6HuVzCYg5O9otiBgCtBqKkpdPvz611yDdE/edit?usp=sharing)
+
+## Variant
 [Variant Schema](https://docs.google.com/spreadsheets/d/1XNHkBLkqDB2Dm83_C6rJ2RrMbPmESP_LPA92MknDk7U/edit?usp=sharing)
+
+## Option
 [Option Schema](https://docs.google.com/spreadsheets/d/1pzrDnblT6r-cB6Adw-iy7EutrmUTXkLrQHhUf5kXt_o/edit?usp=sharing)
 
 ## User
